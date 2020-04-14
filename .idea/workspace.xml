@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aac4718-ae7c-4a83-afba-3eaf11d21449" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tensorflow_50题/tensorflow_26-47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow_50题/tensorflow_48-50.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_50题/tensorflow_10-14.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_50题/tensorflow_10-14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_50题/tensorflow_15-17.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_50题/tensorflow_15-17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_50题/tensorflow_18-25.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_50题/tensorflow_18-25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_50题/tensorflow_2-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_50题/tensorflow_2-9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow_50题/引用说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_50题/引用说明.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow_50题/tensorflow_26-47.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow_50题/tensorflow_26-47.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +209,7 @@
       <workItem from="1584325747973" duration="708000" />
       <workItem from="1584328476812" duration="154000" />
       <workItem from="1586857469045" duration="4060000" />
-      <workItem from="1586861587445" duration="10655000" />
+      <workItem from="1586861587445" duration="11300000" />
     </task>
     <servers />
   </component>
@@ -238,22 +232,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="293" y="301" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586862628336" />
-    <state width="891" height="168" key="GridCell.Tab.0.bottom" timestamp="1586868363257">
+    <state width="891" height="168" key="GridCell.Tab.0.bottom" timestamp="1586874315422">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="891" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586868363257" />
-    <state width="891" height="168" key="GridCell.Tab.0.center" timestamp="1586868363257">
+    <state width="891" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586874315422" />
+    <state width="891" height="168" key="GridCell.Tab.0.center" timestamp="1586874315422">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="891" height="168" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586868363256" />
-    <state width="891" height="168" key="GridCell.Tab.0.left" timestamp="1586868363256">
+    <state width="891" height="168" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586874315422" />
+    <state width="891" height="168" key="GridCell.Tab.0.left" timestamp="1586874315422">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="891" height="168" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586868363256" />
-    <state width="891" height="168" key="GridCell.Tab.0.right" timestamp="1586868363257">
+    <state width="891" height="168" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586874315422" />
+    <state width="891" height="168" key="GridCell.Tab.0.right" timestamp="1586874315422">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="891" height="168" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586868363257" />
+    <state width="891" height="168" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586874315422" />
     <state width="915" height="363" key="GridCell.Tab.1.bottom" timestamp="1586861555271">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

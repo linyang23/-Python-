@@ -69,9 +69,11 @@ with tf.GradientTape() as tape:
     print("第一次预测：", prediction)
     #41.使用交叉熵作为损失函数，计算损失
     cross_entropy = tf.reduce_sum(test_y * tf.math.log(prediction))
+
 #42.计算梯度
 trainable_variables = [conv1_w, conv1_b, conv2_w, conv2_b, fc1_w, fc1_b, fc2_w, fc2_b]
 grads = tape.gradient(cross_entropy, trainable_variables)
+
 #43.更新梯度
 optimizer.apply_gradients(zip(grads, trainable_variables))
 
@@ -110,13 +112,13 @@ plt.show()
 print(classes[train_Y[0]])
 
 #44.预处理1：将train_y, test_y进行归一化
-
 train_X = tf.cast(train_X, dtype=tf.float32) / 255
 test_X = tf.cast(test_X, dtype=tf.float32) / 255
+
 #45.预处理2：将train_y, test_y进行onehot编码
 
-train_Y = tf.one_hot(train_Y, depth=10)
-test_Y = tf.one_hot(test_Y, depth=10)
+train_Y = tf.one_hot(train_Y, depth = 10)
+test_Y = tf.one_hot(test_Y, depth = 10)
 
 #因为前面实验的时候修改过参数，所以需要重新初始化所有参数
 conv1_w = tf.Variable(tf.random.truncated_normal([5,5,3,6], stddev=0.1))
