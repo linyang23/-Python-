@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aac4718-ae7c-4a83-afba-3eaf11d21449" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/numpy_test/noob_i.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_test/noob_j.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_test/noob_k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_test/noob_l.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_test/noob_m.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_test/theano_a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Machine-Learning-Python-Code-Implementations-with-Notes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machine-Learning-Python-Code-Implementations-with-Notes.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy_test/noob_g.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_test/noob_g.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy_test/noob_h.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_test/noob_h.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy_test/theano_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_test/theano_a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +58,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.theano_a">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -182,12 +175,9 @@
       <module name="Machine-Learning-Python-Code-Implementations-with-Notes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="D:\app\conda\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpy_test" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -200,6 +190,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.noob_j" />
+      <item itemvalue="Python.noob_k" />
+      <item itemvalue="Python.noob_l" />
+      <item itemvalue="Python.noob_m" />
+      <item itemvalue="Python.theano_a" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.theano_a" />
@@ -241,6 +238,8 @@
       <workItem from="1586933924844" duration="554000" />
       <workItem from="1586934553988" duration="374000" />
       <workItem from="1586934961568" duration="1176000" />
+      <workItem from="1586936171963" duration="383000" />
+      <workItem from="1586944424213" duration="3717000" />
     </task>
     <servers />
   </component>
@@ -251,18 +250,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="350" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586935581229">
+    <state x="350" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586946770927">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="350" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586935581229" />
+    <state x="350" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586946770927" />
     <state x="194" y="351" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586857700038">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="194" y="351" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586857700038" />
-    <state x="293" y="301" width="1011" height="641" key="FileChooserDialogImpl" timestamp="1586935710301">
+    <state x="293" y="301" width="1011" height="641" key="FileChooserDialogImpl" timestamp="1586947843586">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="293" y="301" width="1011" height="641" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586935710301" />
+    <state x="293" y="301" width="1011" height="641" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586947843586" />
     <state width="891" height="168" key="GridCell.Tab.0.bottom" timestamp="1586874315422">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -295,10 +294,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="915" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586861555271" />
-    <state x="590" y="236" key="SettingsEditor" timestamp="1586936140032">
+    <state x="590" y="236" key="SettingsEditor" timestamp="1586948208944">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="590" y="236" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586936140032" />
+    <state x="590" y="236" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586948208944" />
     <state x="645" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1586933554493">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
