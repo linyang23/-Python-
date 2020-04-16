@@ -9,15 +9,9 @@
 可能需要的参考：    
 [windows下cuda的安装](https://www.cnblogs.com/arxive/p/11198420.html)   
 
-目录：
-[numpy](https://github.com/linyang23/Machine-Learning-Python-Code-Implementations-with-Notes/tree/master/numpy_test)
-
-[theano](https://github.com/linyang23/Machine-Learning-Python-Code-Implementations-with-Notes/tree/master/theano_test)
-
-[tensorflow](https://github.com/linyang23/Machine-Learning-Python-Code-Implementations-with-Notes/tree/master/tensorflow_test)
-
-[tensorflow50题](https://github.com/linyang23/Machine-Learning-Python-Code-Implementations-with-Notes/tree/master/tensorflow_50%E9%A2%98)
-
-[pytorch](https://github.com/linyang23/Machine-Learning-Python-Code-Implementations-with-Notes/tree/master/pytorch_test)
-
-
+目录：   
+[numpy](https://github.com/linyang23/Machine-Learning-Python-Code-Implementations-with-Notes/tree/master/numpy_test)    
+[theano](https://github.com/linyang23/Machine-Learning-Python-Code-Implementations-with-Notes/tree/master/theano_test)    
+[tensorflow](https://github.com/linyang23/Machine-Learning-Python-Code-Implementations-with-Notes/tree/master/tensorflow_test)    
+[tensorflow50题](https://github.com/linyang23/Machine-Learning-Python-Code-Implementations-with-Notes/tree/master/tensorflow_50%E9%A2%98)    
+[pytorch](https://github.com/linyang23/Machine-Learning-Python-Code-Implementations-with-Notes/tree/master/pytorch_test)    
