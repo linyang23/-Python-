@@ -1,3 +1,4 @@
+# coding=utf-8
 #矩阵生成
 import numpy as np
 nd6=np.zeros([3,3])     #zeros，生成纯0矩阵

@@ -1,3 +1,4 @@
+# coding=utf-8
 #《Python深度学习：基于tensorflow》—— numpy部分
 
 import numpy as np          #此处引用库

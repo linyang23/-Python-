@@ -1,3 +1,4 @@
+# coding=utf-8
 #2.创建一个3x3的0常量张量
 import tensorflow as tf
 c = tf.zeros([3, 3])

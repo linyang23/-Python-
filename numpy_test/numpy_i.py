@@ -1,3 +1,4 @@
+# coding=utf-8
 #通过random.choice从指定的样本中进行随机抽取数据
 import numpy as np
 from numpy import random as nr

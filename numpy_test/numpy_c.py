@@ -1,3 +1,4 @@
+# coding=utf-8
 import numpy as np
 nd5=np.random.random([3,3])             #生成3行3列的矩阵
 print(nd5)

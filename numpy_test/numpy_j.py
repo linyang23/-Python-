@@ -1,3 +1,4 @@
+# coding=utf-8
 #矩阵常用操作
 import numpy as np
 nd14 = np.arange(9).reshape([3, 3])

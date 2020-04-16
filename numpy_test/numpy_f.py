@@ -1,3 +1,4 @@
+# coding=utf-8
 #文件存取
 import numpy as np
 nd9=np.random.random([5,5])

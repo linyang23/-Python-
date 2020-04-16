@@ -1,3 +1,4 @@
+# coding=utf-8
 #广播机制,其功能为方便不同shape的数组（NumPy库的核心数据结构）进行数学运算
 
 import numpy as np

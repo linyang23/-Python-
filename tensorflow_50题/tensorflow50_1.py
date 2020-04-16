@@ -1,3 +1,4 @@
+# coding=utf-8
 #导入tensorflow库简写为tf，并输出版本
 
 import tensorflow as tf

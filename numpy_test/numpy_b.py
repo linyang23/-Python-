@@ -1,3 +1,4 @@
+# coding=utf-8
 import numpy as np
 list2=[[3.14,2.17,0,1,2],[1,2,3,4,5]]          #生成二维数组
 nd2=np.array(list2)             #继承再使用

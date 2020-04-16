@@ -1,3 +1,4 @@
+# coding=utf-8
 import tensorflow as tf
 
 #计算y=x*x在x=3处的导数

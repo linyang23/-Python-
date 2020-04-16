@@ -1,3 +1,4 @@
+# coding=utf-8
 #随机数生成
 import numpy as np
 np.random.seed(123)             #更换随机数序列为第123组，若没有此句则会随机选取一组序列

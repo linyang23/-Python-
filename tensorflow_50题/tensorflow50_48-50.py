@@ -1,3 +1,4 @@
+# coding=utf-8
 import tensorflow as tf
 
 #总任务：实现最简单的保存&读取变量值

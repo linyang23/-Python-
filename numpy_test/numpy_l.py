@@ -1,3 +1,4 @@
+# coding=utf-8
 #通用函数
 
 #使用math与numpy函数性能比较

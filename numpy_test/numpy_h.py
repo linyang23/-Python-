@@ -1,3 +1,4 @@
+# coding=utf-8
 #通过指定索引标签读取数据
 import numpy as np
 np.random.seed(2018)

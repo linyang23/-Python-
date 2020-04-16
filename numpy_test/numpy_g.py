@@ -1,3 +1,4 @@
+# coding=utf-8
 #利用arange函数读取数据
 # import numpy as np
 print(np.arange(10))        #生成从0开始，步长为1，元素个数为10的矩阵
