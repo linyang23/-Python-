@@ -1,4 +1,4 @@
-# 机器学习Python代码实现+注释
+AI-Python代码实现+注释
 目录：   
 [numpy](https://github.com/linyang23/Machine-Learning-Python-Code-Implementations-with-Notes/tree/master/numpy_test)    
 [theano](https://github.com/linyang23/Machine-Learning-Python-Code-Implementations-with-Notes/tree/master/theano_test)    
